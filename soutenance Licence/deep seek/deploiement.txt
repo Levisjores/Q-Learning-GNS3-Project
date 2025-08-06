@@ -1,0 +1,14 @@
+pour lancé le projet executé la commande:
+
+python3 -c "
+from agents.network_manager import NetworkManager
+nm = NetworkManager('10.0.1.1')
+nm.update_route('192.168.3.0', '10.0.2.2')
+"
+se reférer a la méthode "update_route() pour voir le role de chaque paramètre.
+
+puis lancé l'interface graphyque pour voir le resultat via la commande:
+
+python3 visualization/app.py
+
+visitez Ouvrez http://localhost:8050
