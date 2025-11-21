@@ -1,0 +1,1 @@
+scp -r "C:\Users\G.L\Videos\données importantes\soutenance Licence\GPT code\" vboxuser@192.168.220.131:/home/vboxuser/Desktop/GPT

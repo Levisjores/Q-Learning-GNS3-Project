@@ -1,0 +1,1 @@
+# Mesure de latence (ping)
